@@ -1,7 +1,7 @@
-**#Vaja 1 Single conversion z NUCLEO-L476G**
-Slikovni izrezek iz CubeMX
+**Vaja 1 Single conversion z NUCLEO-L476G**  
+  Slikovni izrezek iz CubeMX
 
-<img width="647" height="632" alt="image" src="https://github.com/user-attachments/assets/b9770fa2-0854-4626-b408-80534cb59d50" />
+  <img width="647" height="632" alt="image" src="https://github.com/user-attachments/assets/b9770fa2-0854-4626-b408-80534cb59d50" />
 
 
 Slika povezanega potenciometra
