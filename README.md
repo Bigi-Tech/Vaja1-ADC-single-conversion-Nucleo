@@ -7,5 +7,4 @@ Slikovni izrezek iz CubeMX
 Slika povezanega potenciometra
 <img width="2400" height="1080" alt="image" src="https://github.com/user-attachments/assets/11576be0-5a55-4f9e-b5cd-a3abe6a69d69" />
 
-Posnetek delovanja
 <a href="https://ctrlgrid.com/uploads/2951ac3478b.mp4">Posnetek delovanja</a>
