@@ -9,5 +9,4 @@ Slika povezanega potenciometra
 
 <a href="https://ctrlgrid.com/uploads/2951ac3478b.mp4">Posnetek delovanja</a>  
 
-Odgovori na vprašanja:
-
+Odgovori na vprašanja: V pdf datoteki
